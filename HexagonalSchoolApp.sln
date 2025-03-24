@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HexagonalSchoolApp.Domain", "HexagonalSchoolApp.Domain\HexagonalSchoolApp.Domain.csproj", "{55E8D0C0-83FD-418E-B796-C7B8DA0D1060}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HexagonalSchoolApp.Application", "HexagonalSchoolApp.Application\HexagonalSchoolApp.Application.csproj", "{1F7C0113-1E52-454E-A0C3-95007F11061A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HexagonalSchoolApp.Infrastructure", "HexagonalSchoolApp.Infrastructure\HexagonalSchoolApp.Infrastructure.csproj", "{79481145-4810-417F-96CC-FD4113150A18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HexagonalSchoolApp.API", "HexagonalSchoolApp.API\HexagonalSchoolApp.API.csproj", "{DF4AD5CC-C0F9-4639-81B3-6CA134BDBBC8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55E8D0C0-83FD-418E-B796-C7B8DA0D1060}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55E8D0C0-83FD-418E-B796-C7B8DA0D1060}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55E8D0C0-83FD-418E-B796-C7B8DA0D1060}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55E8D0C0-83FD-418E-B796-C7B8DA0D1060}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F7C0113-1E52-454E-A0C3-95007F11061A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F7C0113-1E52-454E-A0C3-95007F11061A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F7C0113-1E52-454E-A0C3-95007F11061A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F7C0113-1E52-454E-A0C3-95007F11061A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79481145-4810-417F-96CC-FD4113150A18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79481145-4810-417F-96CC-FD4113150A18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79481145-4810-417F-96CC-FD4113150A18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79481145-4810-417F-96CC-FD4113150A18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF4AD5CC-C0F9-4639-81B3-6CA134BDBBC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF4AD5CC-C0F9-4639-81B3-6CA134BDBBC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF4AD5CC-C0F9-4639-81B3-6CA134BDBBC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF4AD5CC-C0F9-4639-81B3-6CA134BDBBC8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

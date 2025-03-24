@@ -1,0 +1,13 @@
+
+<Project Sdk="Microsoft.NET.Sdk.Web">
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="../HexagonalSchoolApp.Application/HexagonalSchoolApp.Application.csproj" />
+    <ProjectReference Include="../HexagonalSchoolApp.Domain/HexagonalSchoolApp.Domain.csproj" />
+    <ProjectReference Include="../HexagonalSchoolApp.Infrastructure/HexagonalSchoolApp.Infrastructure.csproj" />
+  </ItemGroup>
+</Project>
